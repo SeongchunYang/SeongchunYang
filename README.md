@@ -1,16 +1,11 @@
-💼 
+- BSc Life Sciences, Psychology[^1] (Kyonggi Univ. 2015-2019)
+- MSc Life Sciences (Kyoto Univ. 2019-2021)
 
-I work on modeling animal behaviors and analysing RNA data in mostly neurodevelopment arena. 
-
-🖥 
-
-Perhaps due to the nature of my work, my repo looks like a car crash of various things I've worked on previously and am working on currently.
+Currently work in both behavioral modeling/simulation and analysis of RNAseq data in neurodevelopment.
 
 Most of the content here are for archival purposes as much as to publish the code.
 
-📫
-
-https://www.linkedin.com/in/seongchun-yang/
+[^1]: minor
 
 <!---
 SeongchunYang/SeongchunYang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
