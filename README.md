@@ -1,7 +1,7 @@
 - BSc Life Sciences, Psychology[^1] (Kyonggi Univ. 2015-2019)
 - MSc Life Sciences (Kyoto Univ. 2019-2021)
 
-Currently work in both behavioral modeling/simulation and analysis of RNAseq data in neurodevelopment.
+Currently working in both behavioral modeling/simulations and analysis of RNAseq data in neurodevelopment.
 
 Most of the content here are for archival purposes as much as to publish the code.
 
